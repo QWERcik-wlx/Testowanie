@@ -1,0 +1,14 @@
+canvas, body {
+    height: 100vh;
+    width: 100vw;
+}
+body {
+    background-color: red;
+}
+canvas {
+  touch-action: none;
+  background-color: cyan;
+}
+*{ 
+    user-select: none;
+}
